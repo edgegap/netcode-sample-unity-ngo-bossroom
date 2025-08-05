@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.edgegap.unity-servers-plugin": {
-      "version": "https://github.com/edgegap/edgegap-unity-plugin.git",
+      "version": "https://github.com/edgegap/edgegap-unity-plugin.git#sample/unity-ngo-bossroom",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -9,7 +9,7 @@
         "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.6",
         "com.unity.modules.uielements": "1.0.0"
       },
-      "hash": "66c2b329ac7368a2fce07393b04b472172c8859a"
+      "hash": "c81034bbf00dc3b4e10bb4f206225accd581467b"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
